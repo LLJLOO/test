@@ -23,7 +23,7 @@ import javax.swing.table.DefaultTableModel;
 public class Billing extends javax.swing.JFrame {
 public int finalTotal=0;
     /**
-     * Creates new form design.
+     * Creates new form design..
      */
     public Billing() {
         initComponents();
